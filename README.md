@@ -2,7 +2,7 @@
 
 OMP statusline extension showing live Claude subscription (Pro/Max) quota: 5-hour window, 7-day window, and banked resets with the nearest expiry.
 
-Fork of the OpenAI quota extension in [zznabil/omp-baseline](https://github.com/zznabil/omp-baseline), repurposed for the `anthropic` provider.
+Fork of the OpenAI quota extension in [zznabil/omp-openai-quota](https://github.com/zznabil/omp-openai-quota), repurposed for the `anthropic` provider.
 
     Claude │ ⏱ 5h 95% · 2h │ ↻ 7d 99% · 2d 5h │ ◆ Banked resets 1 · 16d
 
